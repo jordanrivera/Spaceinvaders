@@ -7,6 +7,8 @@ The Space Invaders Video Game is the final project of The University of British 
 - the conclusion of the game is met with the GAME OVER screen
 
 # Domain Analysis
+<img class="fit-picture"
  src="https://audiopluginshop.com/wp-content/uploads/2020/11/domain_analysis_si.png"
+    alt="Domain Analysis">
 
 
